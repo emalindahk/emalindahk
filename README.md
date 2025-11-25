@@ -14,10 +14,9 @@
 
 <!-- COLORFUL DIVIDER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-💠💠💠💠💠-%23A020F0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-💠💠ABOUT_ME💠💠-%23A020F0?style=for-the-badge" />
 </p>
 
-## 🎨 About Me
 
 I'm a frontend engineer (3+ years) transitioning into **AI automation & intelligent workflow engineering**.  
 I combine **React + Next.js expertise** with **LLM-powered systems**, building digital experiences that are fast, scalable, and smart.
@@ -34,10 +33,8 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🌈🌈🌈-%23FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🌈WHAT_I_DO🌈-%23FF1493?style=for-the-badge" />
 </p>
-
-## 🔥 What I Do
 
 ### 🤖 **AI & Automation**
 - LLM-powered workflows  
@@ -57,10 +54,8 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-✨✨✨✨✨-%23ff9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🛠TECH_STACK🛠-%23ff9800?style=for-the-badge" />
 </p>
-
-## 🛠 Tech Stack
 
 **Languages**  
 `HTML` `CSS` `JavaScript` `TypeScript` `Scala`
@@ -82,8 +77,6 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 <p align="center">
   <img src="https://img.shields.io/badge/-🚀_Featured_Projects_🚀-%2367e8f9?style=for-the-badge" />
 </p>
-
-## 📌 Featured Projects
 
 ### 🔹 **Tours & Activities Booking Platform**
 *Next.js + MedusaJS + Tailwind CSS*  
@@ -112,29 +105,8 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-📊_My_GitHub_Stats-%23ff6f61?style=for-the-badge" />
-</p>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emalindahk&theme=radical" /><br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalindahk&layout=compact&theme=radical" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/-💛_Beyond_the_Code_💛-%23FFB400?style=for-the-badge" />
-</p>
-
----
-
-<p align="center">
   <img src="https://img.shields.io/badge/-📫_Let's_Connect-%23795ef0?style=for-the-badge" />
 </p>
-
-## 📫 Let’s Connect
 
 📧 **Email:** emalindahkimari@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/emmahkimari 
