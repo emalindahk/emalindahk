@@ -9,7 +9,7 @@
 
 <!-- COLORFUL DIVIDER -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-💠💠ABOUT_ME💠💠-%23A020F0?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-💠💠_ABOUT_ME_💠💠-%23A020F0?style=for-the-badge" />
 </p>
 
 
@@ -28,7 +28,7 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🌈WHAT_I_DO🌈-%23FF1493?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🌈_WHAT_I_DO_🌈-%23FF1493?style=for-the-badge" />
 </p>
 
 ### 🤖 **AI & Automation**
@@ -49,7 +49,7 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-🛠TECH_STACK🛠-%23ff9800?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/-🛠_TECH_STACK_🛠-%23795ef0?style=for-the-badge" />
 </p>
 
 **Languages**  
