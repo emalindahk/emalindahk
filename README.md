@@ -1,8 +1,3 @@
-<!-- HEADER BANNER -->
-<p align="center">
-  <img src="https://fakeimg.pl/1200x300/0d0d0d/ffffff/?text=Emmah%20Kimari%20•%20AI%20Automation%20Engineer%20•%20Frontend%20Developer&font=bebas" alt="Banner"/>
-</p>
-
 <h1 align="center">🌟 Hi, I'm <strong>Emmah Kimari</strong> 👋</h1>
 
 <p align="center">
