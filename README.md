@@ -1,110 +1,148 @@
-<h1 align="center">Hi, I'm Emmah Kimari 👋</h1>
-
+<!-- HEADER BANNER -->
 <p align="center">
-  <b>AI Automation Engineer • Frontend Developer • Problem Solver</b><br/>
-  Building fast, scalable systems — from web apps to AI-driven automation.
+  <img src="https://fakeimg.pl/1200x300/0d0d0d/ffffff/?text=Emmah%20Kimari%20•%20AI%20Automation%20Engineer%20•%20Frontend%20Developer&font=bebas" alt="Banner"/>
 </p>
 
+<h1 align="center">🌟 Hi, I'm <strong>Emmah Kimari</strong> 👋</h1>
+
+<p align="center">
+  <b>Frontend Developer • AI Automation Engineer •  Workflow Architect</b><br/>
+  Turning ideas into intelligent systems and high-performance applications.
+</p>
+
+<br/>
+
+<!-- COLORFUL DIVIDER -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-💠💠💠💠💠-%23A020F0?style=for-the-badge" />
+</p>
+
+## 🎨 About Me
+
+I'm a frontend engineer (3+ years) transitioning into **AI automation & intelligent workflow engineering**.  
+I combine **React + Next.js expertise** with **LLM-powered systems**, building digital experiences that are fast, scalable, and smart.
+
+I create:
+- ⚡ Automation pipelines  
+- 🤖 AI assistants  
+- 🌐 Modern, high-speed web platforms  
+- 🔁 Zapier & n8n process flows  
+- 📈 Trading-related automation logic  
+
+My coding philosophy: **If something repeats more than twice, automate it.**
+
 ---
 
-## 🚀 About Me
+<p align="center">
+  <img src="https://img.shields.io/badge/-🌈🌈🌈-%23FF1493?style=for-the-badge" />
+</p>
 
-Frontend Developer with 3+ years building scalable, high-performance applications using **React, Next.js, Vue, and MedusaJS**.  
-Expanding into **AI Automation**, specializing in creating intelligent workflows using **LLMs, OpenAI API, Zapier, and n8n**.
+## 🔥 What I Do
 
-I love crafting solutions that remove human bottlenecks — whether it’s **automating business processes**, **building trading bots**, or **improving digital platforms** from the ground up.
+### 🤖 **AI & Automation**
+- LLM-powered workflows  
+- Business automations using **OpenAI, Zapier, n8n**  
+- Intelligent agents for everyday tasks  
+- Smart pipelines for data, content, and communication  
+- Trading system automations (bias logic + triggers)
 
----
-
-## 🧠 What I Do
-
-### **AI & Automation**
-- Building LLM-powered workflows  
-- Integrating OpenAI assistants into business systems  
-- n8n & Zapier automation (lead workflows, business ops, notifications, etc.)  
-- Prototyping intelligent agents for real-world processes  
-- Experimenting with trading automation and system signals
-
-### **Frontend Engineering**
-- Interactive, scalable UIs — React, Next.js, Vue  
-- Custom e-commerce systems (MedusaJS)  
-- Tailwind CSS architecture, performance-first builds  
-- API integration, custom plugin development  
-- Testing with Mocha  
-- Dockerized development workflows  
+### 🎨 **Frontend Engineering**
+- UI engineering with **React, Next.js, Vue**  
+- Custom eCommerce systems with **MedusaJS**  
+- Tailwind CSS design + component systems  
+- API-driven application development  
+- Performance optimization  
+- Docker-based workflows  
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-✨✨✨✨✨-%23ff9800?style=for-the-badge" />
+</p>
 
 ## 🛠 Tech Stack
 
-**Languages:**  
+**Languages**  
 `HTML` `CSS` `JavaScript` `TypeScript` `Scala`
 
-**Frameworks & Libraries:**  
-`React` `Next.js` `Vue.js` `MedusaJS`
+**Frontend**  
+`React` `Next.js` `Vue` `Tailwind CSS`
 
-**AI / Automation Tools:**  
+**Automation & AI**  
 `OpenAI` `LLMs` `Zapier` `n8n`
 
-**Database & Tools:**  
-`Prisma` `Supabase` `Docker`
+**Backend & Infra**  
+`MedusaJS` `Prisma` `Supabase` `Docker`
 
-**Testing:**  
+**Testing**  
 `Mocha`
 
 ---
 
+<p align="center">
+  <img src="https://img.shields.io/badge/-🚀_Featured_Projects_🚀-%2367e8f9?style=for-the-badge" />
+</p>
+
 ## 📌 Featured Projects
 
-### 🔹 **Tours & Activities Booking Platform**  
+### 🔹 **Tours & Activities Booking Platform**
 *Next.js + MedusaJS + Tailwind CSS*  
-- Designed and built the full frontend architecture  
-- Implemented dynamic bookings, checkout flows, and multi-day scheduling  
-- Integrated secure payment systems  
-- Developed custom plugins, optimized performance, and wrote long-term documentation  
+- Full booking + scheduling engine  
+- Secure payments & API integrations  
+- Custom plugins & system extensions  
+- High-performance, responsive UI  
+- Documentation & long-term sustainability  
 
 ---
 
-### 🔹 **AI Automation Workflows (Personal Projects)**  
-- LLM-based assistants for business workflow automation  
-- n8n flows: lead generation, email sequencing, content pipelines  
-- Trading automation: bias identification concepts, signal triggers, and systemized logic  
-- OpenAI-integrated tools for data cleanup & content generation  
+### 🔹 **AI Automation Workflows**
+- OpenAI-powered workflows  
+- Zapier + n8n enterprise automations  
+- Tools for content pipelines, communication, notifications  
+- Trading-logic assistants and signal systems  
 
 ---
 
-### 🔹 **Frontend Engineering for Global Companies**  
-Across roles at **Torre**, **Neouid**, and **Tegger**:  
-- Fixed UI bugs, improved UX with Vue & TypeScript  
-- Implemented responsive, mobile-first interfaces  
-- Developed new features and components  
-- Enhanced performance using caching, lazy loading, and optimized assets  
+### 🔹 **Frontend Engineering (Torre, Neouid, Tegger)**
+- Feature development & UI enhancements  
+- Production bug fixes  
+- Responsive/mobile-first interfaces  
+- Performance & UX optimizations  
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-📊_My_GitHub_Stats-%23ff6f61?style=for-the-badge" />
+</p>
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emalindahk" alt="Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalindahk&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=emalindahk&theme=radical" /><br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emalindahk&layout=compact&theme=radical" />
 </p>
 
 ---
 
-## 💛 Beyond the Code
-
-A little human touch —  
-I'm a mom of two boys, a lover of Christmas, road trips, and personal growth.  
-On the side, I’m also deep into building **forex trading automation**, blending technical analysis with AI experimentation.
+<p align="center">
+  <img src="https://img.shields.io/badge/-💛_Beyond_the_Code_💛-%23FFB400?style=for-the-badge" />
+</p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-📫_Let's_Connect-%23795ef0?style=for-the-badge" />
+</p>
 
 ## 📫 Let’s Connect
 
-**Email:** emalindahkimari@gmail.com  
-**LinkedIn:** https://www.linkedin.com/in/emmahkimari  
-**GitHub:** https://github.com/emalindahk  
+📧 **Email:** emalindahkimari@gmail.com  
+🔗 **LinkedIn:** https://www.linkedin.com/in/emmahkimari 
 
 ---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&section=footer"/>
+</p>
 
 <h3 align="center">✨ Thanks for stopping by ✨</h3>
