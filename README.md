@@ -36,7 +36,7 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 - Business automations using **OpenAI, Zapier, n8n**  
 - Intelligent agents for everyday tasks  
 - Smart pipelines for data, content, and communication  
-- Trading system automations (bias logic + triggers)
+- Trading system automations (bias logic + indicators)
 
 ### 🎨 **Frontend Engineering**
 - UI engineering with **React, Next.js, Vue**  
@@ -87,7 +87,7 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 - OpenAI-powered workflows  
 - Zapier + n8n enterprise automations  
 - Tools for content pipelines, communication, notifications  
-- Trading-logic assistants and signal systems  
+- Trading-logic assistants and indicators  
 
 ---
 
