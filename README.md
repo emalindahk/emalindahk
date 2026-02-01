@@ -1,7 +1,7 @@
 <h1 align="center">🌟 Hi, I'm <strong>Emmah Kimari</strong> 👋</h1>
 
 <p align="center">
-  <b>Frontend Developer • AI Automation Engineer •  Workflow Architect</b><br/>
+  <b>Frontend Developer</b><br/>
   Turning ideas into intelligent systems and high-performance applications.
 </p>
 
@@ -13,8 +13,8 @@
 </p>
 
 
-I'm a frontend engineer (3+ years) transitioning into **AI automation & intelligent workflow engineering**.  
-I combine **React + Next.js expertise** with **LLM-powered systems**, building digital experiences that are fast, scalable, and smart.
+I'm a frontend engineer experienced in building scalable, high‑performance web applications using React, Next.js, and Vue.js.  
+I combine **React + Next.js expertise** with building digital experiences that are fast, scalable, and smart.
 
 I create:
 - ⚡ Automation pipelines  
@@ -31,13 +31,6 @@ My coding philosophy: **If something repeats more than twice, automate it.**
   <img src="https://img.shields.io/badge/-🌈_WHAT_I_DO_🌈-%23FF1493?style=for-the-badge" />
 </p>
 
-### 🤖 **AI & Automation**
-- LLM-powered workflows  
-- Business automations using **OpenAI, Zapier, n8n**  
-- Intelligent agents for everyday tasks  
-- Smart pipelines for data, content, and communication  
-- Trading system automations (bias logic + indicators)
-
 ### 🎨 **Frontend Engineering**
 - UI engineering with **React, Next.js, Vue**  
 - Custom eCommerce systems with **MedusaJS**  
@@ -46,6 +39,13 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 - Performance optimization  
 - Docker-based workflows  
 
+### 🤖 **AI & Automation**
+- LLM-powered workflows  
+- Business automations using **OpenAI, Zapier, n8n**  
+- Intelligent agents for everyday tasks  
+- Smart pipelines for data, content, and communication  
+- Trading system automations (bias logic + indicators)
+
 ---
 
 <p align="center">
@@ -53,7 +53,7 @@ My coding philosophy: **If something repeats more than twice, automate it.**
 </p>
 
 **Languages**  
-`HTML` `CSS` `JavaScript` `TypeScript` `Scala`
+`HTML` `CSS` `JavaScript` `TypeScript` `Scala` `PineScript`
 
 **Frontend**  
 `React` `Next.js` `Vue` `Tailwind CSS`
